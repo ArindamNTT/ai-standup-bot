@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+standup_replies.json
+.env
+.env.*
