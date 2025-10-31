@@ -1,4 +1,4 @@
-## AI Standup Bot
+## AI Standup Status Bot
 
 A simple bot to automate standup meetings.
 
